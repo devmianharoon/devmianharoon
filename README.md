@@ -1,6 +1,6 @@
  
 # Hi all, I'm Mian Haroon! 👋
-### A Developer, and teacher.
+### A Developer.
  
  - Freelancer
            
