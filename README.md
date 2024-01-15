@@ -59,6 +59,9 @@ Harnessing the power of data with:
 
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white "Mongodb")][repo]
 
+Exploring the power of relational databases with PostgreSQL:
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/devmianharoon)
+
 ## 🎯 **PROGRAMMING LANGUAGES**
 My coding arsenal includes:
 
