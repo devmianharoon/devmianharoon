@@ -6,10 +6,25 @@
 ## About Me
 Welcome to my coding universe! I'm Mian Haroon, a passionate developer and dedicated freelancer. I thrive on turning ideas into functional and visually appealing digital experiences.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmianharoon&label=Profile%20views&color=0e75b6&style=flat" alt="devmianharoon" /> </p>
+- 🌱 I’m currently learning **Python,Generative AI, BlockChain & Metavese  **
+
+- 📫 How to reach me **devmianharoon@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/devmianharoon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devmianharoon" height="30" width="40" /></a>
+<a href="https://www.facebook.com/devmianharoon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devmianharoon" height="30" width="40" /></a>
+<a href="https://www.instagram.com/devmianharoon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devmianharoon" height="30" width="40" /></a>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmianharoon&show_icons=true&locale=en&layout=compact" alt="devmianharoon" /></p>
 ## My Consistency Graph:
 Track my coding journey with the GitHub Streak! 🚀
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmianharoon&theme=highcontrast&layout=compact)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmianharoon&show_icons=true&locale=en" alt="devmianharoon" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmianharoon&" alt="devmianharoon" /></p>
+
 
 ## 🕸️ **WEB DEV TOOLS**
 Mastering the art of web development with an arsenal of powerful tools:
