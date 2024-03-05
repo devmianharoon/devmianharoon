@@ -21,7 +21,6 @@ Welcome to my coding universe! I'm Mian Haroon, a passionate developer and dedic
 ## My Consistency Graph:
 Track my coding journey with the GitHub Streak! 🚀
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=devmianharoon&theme=highcontrast&layout=compact)](https://git.io/streak-stats)
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmianharoon&show_icons=true&locale=en" alt="devmianharoon" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmianharoon&" alt="devmianharoon" /></p>
 
