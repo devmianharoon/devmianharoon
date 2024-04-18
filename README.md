@@ -43,6 +43,39 @@ Mastering the art of web development with an arsenal of powerful tools:
   <a href="https://github.com/devmianharoon">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
+  <a href="https://github.com/devmianharoon">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://github.com/devmianharoon">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://github.com/devmianharoon">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  </a>
+  <a href="https://github.com/devmianharoon">
+    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  </a>
+  <a href="https://github.com/devmianharoon">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  </a>
+  <a href="https://github.com/devmianharoon">
+    <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+  </a>
+  <a href="https://github.com/devmianharoon">
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  </a>
+  <a href="https://github.com/devmianharoon">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  </a>
+  <a href="https://github.com/devmianharoon">
+    <img src="https://img.shields.io/badge/Redux_Toolkit-%23404d59.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  </a>
+  <a href="https://github.com/devmianharoon">
+    <img src="https://img.shields.io/badge/React_Query-000?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query" />
+  </a>
+  <a href="https://github.com/devmianharoon">
+    <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" alt="Apollo GraphQL" />
+  </a>
   <!-- Add more badges here -->
 </p>
 
@@ -57,51 +90,4 @@ Crafting seamless mobile experiences with:
 </p>
 
 ## 🍧 **DESIGN TOOLS**
-Fueling creativity with top-notch design tools:
-
-<p align="center">
-  <a href="https://github.com/devmianharoon">
-    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
-  <!-- Add more badges here -->
-</p>
-
-## ⚙️ **BACKEND DEV TOOLS**
-Powering the server-side magic with:
-
-<p align="center">
-  <a href="https://github.com/devmianharoon">
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  </a>
-  <!-- Add more badges here -->
-</p>
-
-## 📅 **DATABASES**
-Harnessing the power of data with:
-
-<p align="center">
-  <a href="https://github.com/devmianharoon">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  </a>
-  <!-- Add more badges here -->
-</p>
-
-## 🎯 **PROGRAMMING LANGUAGES**
-My coding arsenal includes:
-
-<p align="center">
-  <a href="https://github.com/devmianharoon">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  </a>
-  <!-- Add more badges here -->
-</p>
-
-## 🛠️ **DEVOPS TOOLS**
-Navigating the world of DevOps with:
-
-<p align="center">
-  <a href="https://github.com/devmianharoon">
-    <img src="https://img.shields.io/badge/git-%23F050" alt="Git" />
-  </a>
-  <!-- Add more badges here -->
-</p>
+Fueling
