@@ -65,6 +65,7 @@ Fueling creativity with top-notch design tools:
 
 ## ⚙️ **BACKEND DEV TOOLS**
 Powering the server-side magic with:
+
 [![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi)](https://github.com/tiangolo/fastapi)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/devmianharoon)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/devmianharoon)
@@ -88,8 +89,10 @@ My coding arsenal includes:
 
 ## 🛠️ **DEVOPS TOOLS**
 Navigating the world of DevOps with:
+
 [![DevOps](https://img.shields.io/badge/devops-%23017ACB.svg?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/devops)
-[![Git](https://img.shields.io/badge/git-%23F050)
+[![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://github.com/git)
+
 
 ### Connect with me:
 
