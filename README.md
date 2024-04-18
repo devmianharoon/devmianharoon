@@ -7,9 +7,18 @@
 Welcome to my coding universe! I'm Mian Haroon, a passionate developer and dedicated freelancer. I thrive on turning ideas into functional and visually appealing digital experiences.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmianharoon&label=Profile%20views&color=0e75b6&style=flat" alt="devmianharoon" /> </p>
-- 🌱 I’m currently learning **Python,Generative AI, BlockChain & Metavese**
 
+- 🌱 I’m currently learning **Python, Generative AI, Blockchain & Metaverse**
+  
 - 📫 How to reach me **devmianharoon@gmail.com**
+
+ ### Cloud Applied Generative AI Engineer (GenEng)
+
+* 👨‍💻  Now shipping applied generative ai products and building api first design ai microservices. Build most stuff using the [nextjs14](https://nextjs.org/), [fastapi](https://fastapi.tiangolo.com/), modern-python, and the [genai-stack](https://github.com/panaverse/learn-generative-ai)
+* 🤝  Open Source Enthusiast
+* 🧑‍🏫  Indie contractor
+* 🌍  Based in Pakistan 🇵🇰
+* 🧠  Learning @ [Presidential Initiative for Artificial Intelligence and Computing](piaic.org)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,7 +65,7 @@ Fueling creativity with top-notch design tools:
 
 ## ⚙️ **BACKEND DEV TOOLS**
 Powering the server-side magic with:
-
+[![FastAPI](https://img.shields.io/badge/fastapi-%2300C7B7.svg?style=for-the-badge&logo=fastapi)](https://github.com/tiangolo/fastapi)
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/devmianharoon)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://github.com/devmianharoon)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://github.com/devmianharoon)
@@ -65,6 +74,7 @@ Powering the server-side magic with:
 Harnessing the power of data with:
 
 [![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/devmianharoon)
+[![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sql)](https://github.com/sql)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/devmianharoon)
 
 ## 🎯 **PROGRAMMING LANGUAGES**
@@ -72,10 +82,15 @@ My coding arsenal includes:
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/devmianharoon)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=TypeScript&logoColor=white)](https://github.com/devmianharoon)
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://github.com/python)
 [![C](https://img.shields.io/badge/C-CC6699?style=for-the-badge&logo=C&logoColor=white)](https://github.com/devmianharoon)
 [![Cpp](https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=Cpp&logoColor=white)](https://github.com/devmianharoon)
 
 ## 🛠️ **DEVOPS TOOLS**
 Navigating the world of DevOps with:
+[![DevOps](https://img.shields.io/badge/devops-%23017ACB.svg?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/devops)
+[![Git](https://img.shields.io/badge/git-%23F050)
 
-[![Git](https://img.shields.io/badge/git-%23F050
+### Socials
+
+<p align="left">  <a href="https://www.github.com/devmianharoon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/devmianharoon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/devmianharoon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/devmianharoon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
