@@ -27,12 +27,12 @@ Welcome to my coding universe! I'm Mian Haroon, a passionate developer and dedic
 <a href="https://www.instagram.com/devmianharoon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devmianharoon" height="30" width="40" /></a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmianharoon&show_icons=true&locale=en&layout=compact" alt="devmianharoon" /></p>
-## My Consistency Graph:
+
+##  **My Consistency Graph:**
 Track my coding journey with the GitHub Streak! 🚀
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmianharoon&show_icons=true&locale=en" alt="devmianharoon" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmianharoon&" alt="devmianharoon" /></p>
-
 
 ## 🕸️ **WEB DEV TOOLS**
 Mastering the art of web development with an arsenal of powerful tools:
@@ -91,6 +91,6 @@ Navigating the world of DevOps with:
 [![DevOps](https://img.shields.io/badge/devops-%23017ACB.svg?style=for-the-badge&logo=devops&logoColor=white)](https://github.com/devops)
 [![Git](https://img.shields.io/badge/git-%23F050)
 
-### Socials
+### Connect with me:
 
 <p align="left">  <a href="https://www.github.com/devmianharoon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/devmianharoon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/devmianharoon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/devmianharoon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
