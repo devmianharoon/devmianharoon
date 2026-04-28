@@ -106,5 +106,5 @@ I also enjoy teaching and sharing knowledge through practical engineering conten
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devmianharoon/devmianharoon/output/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/devmianharoon/devmianharoon/main/github-contribution-grid-snake.svg" alt="Snake Contribution Graph" />
 </p>
