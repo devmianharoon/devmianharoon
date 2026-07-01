@@ -9,7 +9,6 @@
   <a href="mailto:devmianharoon@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=devmianharoon&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
 </p>
-
 ---
 I build agentic AI systems, automation pipelines, and cloud-native backend services that scale in production.
 
